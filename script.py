@@ -4,4 +4,3 @@ a = 3
 x = i + a + a + i
 y = i + x
 print y
-print x
