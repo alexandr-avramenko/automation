@@ -1,4 +1,4 @@
 # automation
 i = 2
 a = 3
-x = i + a
+x = i + a + i
