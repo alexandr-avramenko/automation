@@ -1,2 +1,2 @@
 # automation
-Here you can find automation scripts
+Here you can find automation scripts!
