@@ -18,3 +18,41 @@ else:
 # Даны три числа a, b, c.
 # Определите, существует ли треугольник с такими сторонами.
 # Если треугольник существует, выведите строку YES, иначе выведите строку NO.
+
+a = float(input("Enter an 'a' side: "))
+b = float(input("Enter an 'b' side: "))
+c = float(input("Enter an 'c' side: "))
+
+if a + b > c or b + c > a or a + c > b:
+    print("YES")
+else:
+    print("NO")
+
+# Дано три числа. Упорядочите их в порядке возрастания. Программа должна считывать три числа a, b, c,
+# затем программа должна менять их значения так, чтобы стали выполнены условия a <= b <= c, затем программа выводит тройку a, b, c.
+
+print("Enter 3 nums please:")
+
+aa = int(input("Enter an 'a': "))
+bb = int(input("Enter an 'b': "))
+cc = int(input("Enter an 'c': "))
+
+ss = [aa, bb, cc]
+ss.sort()
+print(ss)
+
+# Даны три целых числа. Определите, сколько среди них совпадающих.
+# Программа должна вывести одно из чисел: 3 (если все совпадают), 2 (если два совпадает) или 0 (если все числа различны).
+
+print("Enter 3 nums please:")
+
+first = int(input("a: "))
+second = int(input("b: "))
+third = int(input("c: "))
+
+if first == second == third:
+    print("3")
+elif first == second or second == third or first == third:
+    print("2")
+else:
+    print("0")
