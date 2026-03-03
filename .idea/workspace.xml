@@ -4,20 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="790944a0-f627-487c-bb49-703b049d3f88" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/common/BasePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/common/BaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/tests/TextBotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="790944a0-f627-487c-bb49-703b049d3f88" name="Changes" comment="added first test">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/allure.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/core/BasePage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/core/BaseTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/pages/PracticeFormPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/automation/pages/elements/TextBoxPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/pages/elements/TextBoxPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/application.conf" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -200,7 +190,23 @@
       <option name="project" value="LOCAL" />
       <updated>1772484488775</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added first test">
+      <option name="closed" value="true" />
+      <created>1772555663929</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1772555663929</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added first test">
+      <option name="closed" value="true" />
+      <created>1772555808214</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1772555808214</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +215,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Merge branch 'main' into feature/init&#10;&#10;# Conflicts:&#10;#&#9;.gitignore&#10;#&#9;.idea/misc.xml" />
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="added first test" />
+    <option name="LAST_COMMIT_MESSAGE" value="added first test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
