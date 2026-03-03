@@ -1,1 +1,14 @@
-/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/AppTest.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/common/BasePage.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/common/BaseTest.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/AbstractDriverFactory.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/Browser.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/ChromeDriverFactory.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/DriverFactory.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/DriverManager.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/driver/FirefoxDriverFactory.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/model/User.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/pages/elements/CaptchaPage.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/pages/elements/TextBoxPage.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/pages/elements/google/SearchPage.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/tests/SearchTest.java
+/Users/alexandravramenko/Desktop/automation/src/test/java/org/automation/utils/PropertyUtil.java
